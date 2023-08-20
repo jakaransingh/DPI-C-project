@@ -1,0 +1,197 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.3_1 2021.08, Aug 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/u/jassingh/SHA256/sha256/src/rtl
+T_opt
+!s110 1692243874
+VjWA78@XeK:_?XK0V8dHbV0
+Z2 04 9 4 work tb_sha256 fast 0
+=1-525400b63b2a-64dd97a1-8b28d-4eb5
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.3_1;73
+R1
+T_opt1
+!s110 1692244437
+VECOQfSD0ldFcgbY`Ia4?c0
+R2
+=1-525400b63b2a-64dd99d4-bfadf-5b27
+R3
+o-quiet -auto_acc_if_foreign -work work
+R4
+n@_opt1
+R5
+vsha256
+Z6 !s110 1692244327
+!i10b 1
+!s100 PDXnS2TbaXFO^7V01=>Do2
+I5RfZHUnWQ=_>9Xi]d=8GZ1
+R1
+w1689295704
+8sha256.v
+Fsha256.v
+!i122 121
+L0 3 213
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.3_1;73
+r1
+!s85 0
+31
+Z9 !s108 1692244327.000000
+Z10 !s107 sha256.v|sha256_core.v|sha256_k_constants.v|sha256_w_mem.v|testbench.sv|
+Z11 !s90 -reportprogress|300|-coveropt|3|+cover|+acc|testbench.sv|sha256_w_mem.v|sha256_k_constants.v|sha256_core.v|sha256.v|model.c|
+!i113 0
+Z12 !s102 -coveropt 3 +cover
+Z13 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vsha256_core
+R6
+!i10b 1
+!s100 f`m2RbzNk4^USkdG`Pg9J0
+IjOU88PGG9DTLEizb2[;dh1
+R1
+w1689554736
+8sha256_core.v
+Fsha256_core.v
+!i122 121
+L0 2 504
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R4
+vsha256_k_constants
+R6
+!i10b 1
+!s100 jKUzJ<IUjV3W0MaV@F[9g0
+Ic]HdzSZV^cN:]TIke6@Oz3
+R1
+w1689321165
+8sha256_k_constants.v
+Fsha256_k_constants.v
+!i122 121
+L0 2 92
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R4
+vsha256_w_mem
+R6
+!i10b 1
+!s100 CjLN:4SW4;iP0CEF@`zQG3
+Ia?FR?;NVPVDzCAmo2i9hL2
+R1
+w1689496042
+8sha256_w_mem.v
+Fsha256_w_mem.v
+!i122 121
+L0 3 165
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R4
+vtb_sha256
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R6
+!i10b 1
+!s100 mFmd^0fi[YK<SZ9=:PLo31
+I0:`oQ08U]aOBdRGX4KKM90
+S1
+R1
+w1692244314
+8testbench.sv
+Ftestbench.sv
+!i122 121
+L0 1 434
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R4

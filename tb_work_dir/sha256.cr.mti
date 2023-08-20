@@ -1,0 +1,32 @@
+/u/jassingh/SHA256/sha256/src/rtl/sha256_k_constants.v {1 {vlog -work work -vopt -stats=none /u/jassingh/SHA256/sha256/src/rtl/sha256_k_constants.v
+QuestaSim-64 vlog 2021.3_1 Compiler 2021.08 Aug 15 2021
+-- Compiling module sha256_k_constants
+
+Top level modules:
+	sha256_k_constants
+
+} {} {}} /u/jassingh/SHA256/sha256/src/rtl/refmodel.h {0 {sccom -work work -stats=none /u/jassingh/SHA256/sha256/src/rtl/refmodel.h
+** Error: (sccom-6130) File "/u/jassingh/SHA256/sha256/src/rtl/refmodel.h" passed on the command line does not have a valid C/C++ filename extension.
+
+} {2.0 3.0} {}} /u/jassingh/SHA256/sha256/src/rtl/sha256_w_mem.v {1 {vlog -work work -vopt -stats=none /u/jassingh/SHA256/sha256/src/rtl/sha256_w_mem.v
+QuestaSim-64 vlog 2021.3_1 Compiler 2021.08 Aug 15 2021
+-- Compiling module sha256_w_mem
+
+Top level modules:
+	sha256_w_mem
+
+} {} {}} /u/jassingh/SHA256/sha256/src/rtl/sha256_core.v {1 {vlog -work work -vopt -stats=none /u/jassingh/SHA256/sha256/src/rtl/sha256_core.v
+QuestaSim-64 vlog 2021.3_1 Compiler 2021.08 Aug 15 2021
+-- Compiling module sha256_core
+
+Top level modules:
+	sha256_core
+
+} {} {}} /u/jassingh/SHA256/sha256/src/rtl/sha256.v {1 {vlog -work work -vopt -stats=none /u/jassingh/SHA256/sha256/src/rtl/sha256.v
+QuestaSim-64 vlog 2021.3_1 Compiler 2021.08 Aug 15 2021
+-- Compiling module sha256
+
+Top level modules:
+	sha256
+
+} {} {}}
