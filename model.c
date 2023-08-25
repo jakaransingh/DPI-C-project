@@ -5,7 +5,25 @@
 bool isVerbose = true;
 bool isHuge = false;
 
-
+typedef struct {
+    const char* mode;
+    bool verbose;
+    int H[8];
+    int t1;
+    int t2;
+    int a;
+    int b;
+    int c;
+    int d;
+    int e;
+    int f;
+    int g;
+    int h;
+    int w;
+    int W[16];
+    int k;
+    int K[64];
+} Hash;
 
 void sha256(Hash* hash, const char* mode, bool verbose) {
     if (strcmp(strcmp(mode, "sha256") != 0) {
