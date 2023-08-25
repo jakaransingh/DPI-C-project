@@ -8,7 +8,7 @@ bool isHuge = false;
 
 
 void sha256(Hash* hash, const char* mode, bool verbose) {
-    if (strcmp(mode, "sha224") != 0 && strcmp(mode, "sha256") != 0) {
+    if (strcmp(strcmp(mode, "sha256") != 0) {
         printf("Error: Given %s is not a supported mode.\n", mode);
         return;
     }
